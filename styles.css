@@ -1,0 +1,230 @@
+html {
+    background-color: pink;
+  }
+  
+  body {
+    font: Arial, sans-serif;
+    margin: 0 5px;
+  }
+  
+  footer {
+    
+  }
+  
+  h1 {
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    
+  }
+  
+  h2 {
+    display: block;
+  }
+  
+  div {
+    display: block;
+  }
+  
+  p {
+    display:block;
+  }
+
+  nav {
+    text-align: right;
+    
+  }
+  
+  li {
+    display: inline;
+    padding: 10px;
+  }
+  
+  a {
+    display: inline;
+    text-decoration: none;
+    color: gray;
+    
+  }
+  
+  .container {
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .color-container {
+    width: 100%;
+    display: inline;
+  }
+  
+  .black {
+      display: inline-block;
+      width: 32%;
+      text-align: center;
+      margin: 20px auto;
+      min-height: 100px;
+      background-color: #000000;
+      color: #fff;
+  }
+  
+  .white {
+      display: inline-block;
+      width: 32%;
+      text-align: center;
+      margin: 20px auto;
+      min-height: 100px;
+      background-color: #fff;
+      color: #000;
+  }
+  
+  .grey {
+      display: inline-block;
+      width: 32%;
+      text-align: center;
+      margin: 20px auto;
+      min-height: 100px;
+      background-color: #808080;
+      color: #000;
+  }
+  
+  .purple {
+      display: inline-block;
+      width: 32%;
+      text-align: center;
+      margin: 20px auto;
+      min-height: 100px;
+      background-color: #800080;
+      color: #000;
+  }
+  
+  .font-container {
+    display: block;
+  }
+  
+  .font-detail {
+    display: inline-block;
+    width: 47%;
+  }
+  
+  .name-crimson-text {
+      font-family: "Crimson Text", serif;
+      font-size: 20px;
+      text-decoration: underline;
+  }
+  
+  .regular-crimson-text {
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .bold-crimson-text {
+    font-family: "Crimson Text", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .regular-italic-crimson-text {
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .name-pt-sans {
+      font-family: "PT Sans", sans-serif;
+      font-size: 20px;
+      text-decoration: underline;
+  }
+  
+  .regular-pt-sans {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .bold-pt-sans {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .regular-italic-pt-sans {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .name-arial {
+      font-family: Arial, sans-serif;
+      font-size: 20px;
+      text-decoration: underline;
+  }
+  
+  .regular-arial {
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .bold-arial {
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .regular-italic-arial {
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .text-container {
+    display: block;
+    text-align: left;
+    margin: 10 auto;
+  }
+  
+  .text-detail h1 {
+      font-weight: 700;
+      font-size: 32px;
+      font-family: Arial, sans-serif;
+  }
+  
+  .text-detail h2 {
+    font-weight: 500;
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .text-detail h3 {
+    font-weight: 500;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .text-detail h4 {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .text-detail h5 {
+    font-weight: 500;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .text-detail h6 {
+    font-weight: 500;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .text-detail p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+  }
+  
+  
